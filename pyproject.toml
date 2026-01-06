@@ -1,0 +1,13 @@
+[project]
+name = "agentic-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=1.4.3",
+    "httpx>=0.28.1",
+    "mistralai>=1.10.0",
+    "phidata>=2.7.10",
+    "streamlit>=1.52.2",
+]
